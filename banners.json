@@ -1,0 +1,47 @@
+[
+    {
+        "id":       "b001",
+        "tipo":     "texto",
+        "texto":    "💼  Precisa de automações personalizadas? Fale com a AutoB Automações!",
+        "url_link": "https://seusite.com.br",
+        "bg":       "#1E3A5F",
+        "fg":       "#93C5FD",
+        "ativo":    true
+    },
+    {
+        "id":       "b002",
+        "tipo":     "texto",
+        "texto":    "⭐  Gostou do sistema? Indique para outros e ganhe desconto na renovação!",
+        "url_link": "",
+        "bg":       "#064E3B",
+        "fg":       "#6EE7B7",
+        "ativo":    true
+    },
+    {
+        "id":       "b003",
+        "tipo":     "texto",
+        "texto":    "🔄  Renove sua licença com antecedência e garanta continuidade sem interrupções.",
+        "url_link": "",
+        "bg":       "#451A03",
+        "fg":       "#FCD34D",
+        "ativo":    true
+    },
+    {
+        "id":       "b004",
+        "tipo":     "imagem",
+        "url_img":  "https://sites-cms-deco-prd.s3.us-east-1.amazonaws.com/optimized/ton/caedc0a6-724a-4760-98fb-f2b107f548b3/banner-home.webp",
+        "url_link": "https://ton.com.br/checkout/cart/?productId=TONMAXMEI_TIER_SMART_POS&referrer=B920BADF-3ACB-45F3-8968-AE3BC657BE2A&userAnticipation=0&userTag=tonmaxmei_tier&utm_medium=invite_share&utm_source=revendedor",
+        "titulo":   "Maquininha Ton — a partir de R$ 16,80",
+        "bg":       "#00C853",
+        "ativo":    true
+    },
+    {
+        "id":       "b005",
+        "tipo":     "imagem",
+        "url_img":  "https://www.datocms-assets.com/58969/1706632640-ifb-logo-vertical-color-no-tagline-1-1.png",
+        "url_link": "https://contrate-beneficios.ifood.com.br/ifb-referral-indicado?ref=W66H2VIP",
+        "titulo":   "descobrir os benefícios oferecidos",
+        "bg":       "#EA1D2C",
+        "ativo":    true
+    }
+]
